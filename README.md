@@ -1,27 +1,27 @@
-⚙️ Information Security
+⚙️ Information Security (InfoSec) – Topic Overview
 
 🧠 Information Security (InfoSec)
-🔐 Cyber Security
-🕳️ Vulnerability
+🔐 Cybersecurity Fundamentals
+🕳️ Understanding Vulnerabilities
 🧪 Penetration Testing (Pentesting)
-🗂️ Penetration Testing Methodologies
-🌀 Phases of Penetration Testing & Hacking Lifecycle
-🎯 Scope of Penetration Testing
-🪲 Bug Bounty
+🗂️ Pentesting Approaches & Methodologies
+🌀 Hacking Lifecycle & Testing Phases
+🎯 Scope and Objectives of Penetration Testing
+🪲 Bug Bounty Programs
 
-🟥🟦🟪 Red Team / Blue Team / Purple Team Explained
+🟥🟦🟪 Red Team vs Blue Team vs Purple Team (Security Operations)
 
-⚠️ Security Threats
-📊 Classification of Security Threats
+⚠️ Cyber Security Threat Landscape
+📊 Types & Classification of Security Threats
 
-🔺 CIA Triad
-🛡️ Defense-in-Depth (DiD)
+🔺 CIA Triad (Confidentiality, Integrity, Availability)
+🛡️ Defense in Depth Strategy (Layered Security Model)
 
-👨‍💼 Chief Information Security Officer (CISO)
+👨‍💼 Role of CISO (Chief Information Security Officer)
 
-🧩 Vulnerability Management
-🌐 Vulnerability Research Websites
-🔬 Vulnerability Research
+🧩 Vulnerability Management Lifecycle
+🌐 Key Platforms for Vulnerability Research
+🔬 Vulnerability Research & Analysis
 
 🇮🇳 CERT-In (Indian Computer Emergency Response Team)
 
