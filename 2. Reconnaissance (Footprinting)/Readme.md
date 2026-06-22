@@ -1,4 +1,5 @@
 🛰️ Reconnaissance (Footprinting)
+
 🧭 Footprinting Overview
 🌍 Website Recon
 🕷️ Katana – Web Crawler
@@ -31,4 +32,5 @@
 🕸️ Maltego and SpiderFoot
 ✅ Reconnaissance Checklist
 📜 NDA & Legal Compliance in Pentesting
+
 📖 Reference: Notes inspired by guidance from Mr. Sachin Verma (Armour Infosec) and enriched with further improvements and updates.
